@@ -1,6 +1,6 @@
 # Mech-Assistant
 
-Allows new [Mech (programming language)](https://mech-lang.org/) users to ask questions about the language and even generate some Mech code based on conversation-level descriptions. Built using Python's LangChain library and publically available Mech documentation and code samples.
+Allows [Mech (programming language)](https://mech-lang.org/) users to ask questions about the language and even generate some Mech code based on conversation-level descriptions. Built using Python's LangChain library and publically available Mech documentation and code samples.
 
 # Some Examples
 
